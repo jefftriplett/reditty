@@ -12,7 +12,7 @@ RedItty depends on [Itty](http://github.com/toastdriven/itty "Itty"), [Redis](ht
 
 If you have those installed, start your Redis server. Then:
 
-`python reditty.py` 
+`python reditty_web.py` 
 
 and the RedItty application will start on localhost.
 
